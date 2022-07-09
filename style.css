@@ -79,3 +79,39 @@ body{
     margin-top: 50px
 
 }
+
+/* Contenu */
+.content{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+/* Informations */ 
+
+.random-info h2{
+    color: #1F2937;
+    font-size: 32px;
+    font-weight: 900;
+}
+
+.info-container{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 75px;
+}
+
+.info-sq{
+    width: 120px;
+    height: 120px;
+    border: solid;
+    border-color: #3882f6;
+    border-radius: 8px;
+}
+
+.infos-text{
+    max-width: 120px;
+    color: #1F2937;
+}
