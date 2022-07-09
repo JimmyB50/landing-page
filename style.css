@@ -115,3 +115,29 @@ body{
     max-width: 120px;
     color: #1F2937;
 }
+
+/* Quote */
+
+.quote{
+    margin-top : 50px;
+    background-color: #E5E7EB;
+    padding: 75px 0 75px 0;
+}
+
+.quote-text{
+    max-width: 705px;
+    margin: 20px auto;
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: 100;
+    text-align: left;
+}
+
+.author{
+    max-width: 705px;
+    margin: 0 auto;
+    font-weight: bold;
+    text-align: end;
+    font-size: 24px;
+}
